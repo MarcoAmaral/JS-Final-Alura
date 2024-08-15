@@ -1,2 +1,6 @@
-# JS-Final-Alura
-Lógica + JS
+# Guessing the correct Number Game.
+Logic
+Javascript
+HTML
+CSS
+Voice API
